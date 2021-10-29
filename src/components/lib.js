@@ -1,6 +1,6 @@
-export * from './lib.final'
+// export * from './lib.final'
 
-// export * from './lib.exercise'
+export * from './lib.exercise'
 
 // 💯 use the emotion macro
 // export * from './lib.extra-1'
@@ -9,4 +9,4 @@ export * from './lib.final'
 // export * from './lib.extra-2'
 
 // 💯 make a loading spinner component
-// export * from './lib.extra-3'
+//export * from './lib.extra-3'
